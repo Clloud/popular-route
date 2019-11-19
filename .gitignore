@@ -1,6 +1,5 @@
 .vscode/
 .idea/
-data/
 
 /map-matching/bin
 /map-matching/target
